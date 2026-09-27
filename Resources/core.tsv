@@ -1,0 +1,406 @@
+# English<TAB>Simplified Chinese<TAB>Traditional Chinese (optional)
+i	我
+me	我
+my	我的
+mine	我的
+myself	我自己
+you	你
+your	你的
+yours	你的
+yourself	你自己
+he	他
+him	他
+his	他的
+she	她
+her	她
+hers	她的
+it	它
+its	它的
+we	我们	我們
+us	我们	我們
+our	我们的	我們的
+ours	我们的	我們的
+they	他们	他們
+them	他们	他們
+their	他们的	他們的
+theirs	他们的	他們的
+this	这	這
+these	这些	這些
+that	那
+those	那些
+here	这里	這裡
+there	那里	那裡
+where	哪里	哪裡
+what	什么	什麼
+who	谁	誰
+whom	谁	誰
+whose	谁的	誰的
+when	什么时候	什麼時候
+why	为什么	為什麼
+how	怎么	怎麼
+which	哪个	哪個
+whether	是否
+if	如果
+because	因为	因為
+but	但是
+and	和
+or	或者
+so	所以
+not	不
+is	是
+are	是
+am	是
+was	是
+were	是
+be	是
+been	是
+being	是
+have	有
+has	有
+had	有
+having	有
+does	做
+did	做
+done	完成
+can	能
+could	可以
+may	可以
+might	可能
+will	会	會
+would	会	會
+should	应该	應該
+must	必须	必須
+shall	将	將
+of	的
+to	到
+in	在
+on	在
+at	在
+from	从	從
+for	为了	為了
+with	和
+without	没有	沒有
+by	通过	透過
+about	关于	關於
+before	之前
+after	之后	之後
+between	之间	之間
+under	下面
+over	上方
+through	通过	透過
+into	进入	進入
+out	外面
+off	关闭	關閉
+as	作为	作為
+than	比
+then	然后	然後
+also	也
+only	只有
+even	甚至
+very	非常
+too	太
+just	只是
+really	真的
+maybe	也许	也許
+perhaps	也许	也許
+probably	可能
+someone	某人
+anyone	任何人
+everyone	每个人	每個人
+something	某事
+anything	任何事
+everything	一切
+nothing	没有什么	沒有什麼
+any	任何
+each	每个	每個
+every	每个	每個
+another	另一个	另一個
+other	其他
+others	其他人
+both	两者	兩者
+either	其中之一
+neither	两者都不	兩者都不
+men	男人们	男人們
+women	女人们	女人們
+mice	老鼠
+hello	你好
+hi	你好
+hey	嗨
+goodbye	再见	再見
+bye	再见	再見
+yes	是
+no	不
+ok	好
+okay	好的
+please	请	請
+thanks	谢谢	謝謝
+thank you	谢谢	謝謝
+sorry	对不起	對不起
+excuse me	不好意思
+welcome	欢迎	歡迎
+good	好
+bad	坏	壞
+great	太好了
+beautiful	漂亮
+nice	很好
+happy	开心	開心
+sad	难过	難過
+love	爱	愛
+like	喜欢	喜歡
+want	想
+need	需要
+know	知道
+think	想
+say	说	說
+tell	告诉	告訴
+ask	问	問
+answer	回答
+see	看见	看見
+look	看
+watch	观看	觀看
+listen	听	聽
+hear	听见	聽見
+read	读	讀
+write	写	寫
+speak	说话	說話
+learn	学习	學習
+study	学习	學習
+work	工作
+play	玩
+make	做
+do	做
+go	去
+come	来	來
+leave	离开	離開
+arrive	到达	到達
+walk	走
+run	跑
+eat	吃
+drink	喝
+sleep	睡觉	睡覺
+buy	买	買
+sell	卖	賣
+pay	付钱	付錢
+open	打开	打開
+close	关闭	關閉
+start	开始	開始
+stop	停止
+finish	完成
+wait	等
+help	帮助	幫助
+try	尝试	嘗試
+use	使用
+find	找到
+give	给	給
+take	拿
+put	放
+get	得到
+keep	保持
+change	改变	改變
+choose	选择	選擇
+send	发送	傳送
+receive	收到
+save	保存	儲存
+delete	删除	刪除
+copy	复制	複製
+paste	粘贴	貼上
+search	搜索	搜尋
+translate	翻译	翻譯
+type	输入	輸入
+input	输入	輸入
+output	输出	輸出
+print	打印	列印
+download	下载	下載
+upload	上传	上傳
+install	安装	安裝
+update	更新
+fix	修复	修復
+build	构建	建構
+test	测试	測試
+code	代码	程式碼
+program	程序	程式
+software	软件	軟體
+hardware	硬件	硬體
+computer	电脑	電腦
+phone	手机	手機
+mobile	手机	手機
+app	应用	應用程式
+application	应用程序	應用程式
+file	文件	檔案
+folder	文件夹	資料夾
+document	文档	文件
+window	窗口	視窗
+screen	屏幕	螢幕
+keyboard	键盘	鍵盤
+mouse	鼠标	滑鼠
+cursor	光标	游標
+button	按钮	按鈕
+menu	菜单	選單
+settings	设置	設定
+option	选项	選項
+data	数据	資料
+database	数据库	資料庫
+network	网络	網路
+internet	互联网	網際網路
+website	网站	網站
+web	网络	網路
+browser	浏览器	瀏覽器
+link	链接	連結
+email	电子邮件	電子郵件
+message	消息	訊息
+video	视频	影片
+photo	照片
+picture	图片	圖片
+image	图像	影像
+music	音乐	音樂
+song	歌曲
+movie	电影	電影
+book	书	書
+paper	纸	紙
+pen	笔	筆
+word	词	詞
+sentence	句子
+language	语言	語言
+english	英语	英語
+chinese	中文
+china	中国	中國
+taiwan	台湾	臺灣
+japan	日本
+america	美国	美國
+country	国家	國家
+city	城市
+home	家
+house	房子
+room	房间	房間
+door	门	門
+table	桌子
+chair	椅子
+bed	床
+school	学校	學校
+student	学生	學生
+teacher	老师	老師
+friend	朋友
+family	家庭
+mother	妈妈	媽媽
+father	爸爸
+child	孩子
+children	孩子们	孩子們
+man	男人
+woman	女人
+person	人
+people	人们	人們
+name	名字
+day	天
+night	夜晚
+morning	早上
+afternoon	下午
+evening	晚上
+today	今天
+tomorrow	明天
+yesterday	昨天
+now	现在	現在
+later	稍后	稍後
+soon	很快
+always	总是	總是
+never	从不	從不
+again	再次
+time	时间	時間
+hour	小时	小時
+minute	分钟	分鐘
+week	星期
+month	月
+year	年
+spring	春天
+summer	夏天
+autumn	秋天
+fall	秋天
+winter	冬天
+weather	天气	天氣
+rain	雨
+snow	雪
+sun	太阳	太陽
+moon	月亮
+star	星星
+sky	天空
+cloud	云	雲
+wind	风	風
+water	水
+fire	火
+earth	地球
+air	空气	空氣
+food	食物
+rice	米饭	米飯
+noodle	面条	麵條
+bread	面包	麵包
+milk	牛奶
+coffee	咖啡
+tea	茶
+fruit	水果
+apple	苹果	蘋果
+banana	香蕉
+orange	橙子	柳橙
+cat	猫	貓
+dog	狗
+bird	鸟	鳥
+fish	鱼	魚
+car	汽车	汽車
+bus	公交车	公車
+train	火车	火車
+plane	飞机	飛機
+bike	自行车	腳踏車
+road	道路
+street	街道
+map	地图	地圖
+left	左
+right	右
+up	上
+down	下
+big	大
+small	小
+long	长	長
+short	短
+new	新
+old	旧	舊
+fast	快
+slow	慢
+hot	热	熱
+cold	冷
+warm	暖和
+cool	凉爽	涼爽
+easy	容易
+hard	困难	困難
+important	重要
+different	不同
+same	相同
+more	更多
+less	更少
+many	许多	許多
+few	少
+all	全部
+some	一些
+none	没有	沒有
+one	一
+two	二
+three	三
+first	第一
+last	最后	最後
+hello world	你好世界
+good morning	早上好
+good afternoon	下午好
+good evening	晚上好
+good night	晚安
+see you	再见	再見
+see you later	回头见	回頭見
+how are you	你好吗	你好嗎
+how much	多少钱	多少錢
+what time	几点	幾點
+i love you	我爱你	我愛你
+i miss you	我想你
+no problem	没问题	沒問題
+of course	当然	當然
+thank you very much	非常感谢	非常感謝
+you're welcome	不客气	不客氣
+nice to meet you	很高兴认识你	很高興認識你
+input method	输入法	輸入法
+artificial intelligence	人工智能	人工智慧
+machine learning	机器学习	機器學習
